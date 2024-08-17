@@ -1,1 +1,1 @@
-# TheDeadMan-sSwitch-AdditionalUpgrades-ChineseSimplified
+# The Dead Man's Switch - Additional Upgrades - Chinese Language

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>huansen.DMSAU.chineseLanguage</packageId>
+	<name>The Dead Man's Switch - Additional Upgrades - Chinese Language</name>
+	<author>HuanSen233</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>WSP.deadmanswitch.upgrades</packageId>
+			<displayName>The Dead Man's Switch - Additional Upgrades</displayName>
+			<steamWorkshopUrl>-</steamWorkshopUrl>
+			<downloadUrl>https://github.com/SonicTHI/SaveOurShip2ExpTest</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>WSP.deadmanswitch.upgrades</li>
+	</loadAfter>
+	<description>The Dead Man's Switch - Additional Upgrades 简繁汉化
+个人渣翻
+繁体机器</description>
+</ModMetaData>

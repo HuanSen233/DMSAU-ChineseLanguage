@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <DMSAU_ModularStorage.label>模組化存儲單元</DMSAU_ModularStorage.label>
+    <DMSAU_ModularStorage.description>額外的存儲單元已安裝在機兵的外部結構。</DMSAU_ModularStorage.description>
+    <DMSAU_LightFrame.label>輕量化骨架</DMSAU_LightFrame.label>
+    <DMSAU_LightFrame.description>使用輕質資料的結構骨架取代了原裝骨架。 機兵速度更快但承傷能力减弱。</DMSAU_LightFrame.description>
+    <DMSAU_ArtifuscleArms.label>高頻肌束</DMSAU_ArtifuscleArms.label>
+    <DMSAU_ArtifuscleArms.description>高頻肌束已安裝，减少近戰冷卻時間並加强攜帶能力。</DMSAU_ArtifuscleArms.description>
+    <DMSAU_FireControlSystem.label>集成火控系統</DMSAU_FireControlSystem.label>
+    <DMSAU_FireControlSystem.description>集成火控系統已安裝，提升射擊效能但移動能力减弱。</DMSAU_FireControlSystem.description>
+    <DMSAU_AdvProcessor.label>高級輔助處理器</DMSAU_AdvProcessor.label>
+    <DMSAU_AdvProcessor.description>額外的濕件輔助處理器加强了資料處理效率，但也給機械師帶來了負擔。</DMSAU_AdvProcessor.description>
+    <DMSAU_PowerDistribution.label>强化配電系統</DMSAU_PowerDistribution.label>
+    <DMSAU_PowerDistribution.description>安裝了超導線纜和减震保險絲，加强EMP抗性並降低能耗係數。</DMSAU_PowerDistribution.description>
+    <DMSAU_ArquebusierSuppresser.label>火力壓制陞級</DMSAU_ArquebusierSuppresser.label>
+    <DMSAU_ArquebusierSuppresser.description>安裝了內部模塊以優化火力壓制行為，代價是射擊精度下降。</DMSAU_ArquebusierSuppresser.description>
+    <!--<DMSAU_ShieldBooster.label>護盾增幅器</DMSAU_ShieldBooster.label>
+    <DMSAU_ShieldBooster.description>集成護盾覈心提高了護盾能量上限。</DMSAU_ShieldBooster.description>-->
+</LanguageData>
