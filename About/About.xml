@@ -17,6 +17,8 @@
 	<loadAfter>
 		<li>WSP.deadmanswitch.upgrades</li>
 	</loadAfter>
+
+    <modVersion>24/8/18-R4</modVersion>
 	<description>The Dead Man's Switch - Additional Upgrades 简繁汉化
 个人渣翻
 繁体机器
