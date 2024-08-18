@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <DMSAU_ModularStorage.label>模块化存储单元</DMSAU_ModularStorage.label>
-    <DMSAU_ModularStorage.description>额外的存储单元已安装在机兵的外部结构。</DMSAU_ModularStorage.description>
+    <DMSAU_ModularStorage.description>额外的存储单元已安装在单位的外部结构。</DMSAU_ModularStorage.description>
     <DMSAU_LightFrame.label>轻量化骨架</DMSAU_LightFrame.label>
-    <DMSAU_LightFrame.description>使用轻质材料的结构骨架取代了原装骨架。机兵速度更快但承伤能力减弱。</DMSAU_LightFrame.description>
+    <DMSAU_LightFrame.description>使用轻质材料的结构骨架取代了原装骨架。单位的速度更快但承伤能力减弱。</DMSAU_LightFrame.description>
     <DMSAU_ArtifuscleArms.label>高频肌束</DMSAU_ArtifuscleArms.label>
     <DMSAU_ArtifuscleArms.description>高频肌束已安装，减少近战冷却时间并加强携带能力。</DMSAU_ArtifuscleArms.description>
     <DMSAU_FireControlSystem.label>集成火控系统</DMSAU_FireControlSystem.label>
@@ -14,6 +14,8 @@
     <DMSAU_PowerDistribution.description>安装了超导线缆和减震保险丝，加强EMP抗性并降低能耗系数。</DMSAU_PowerDistribution.description>
     <DMSAU_ArquebusierSuppresser.label>火力压制升级</DMSAU_ArquebusierSuppresser.label>
     <DMSAU_ArquebusierSuppresser.description>安装了内部模块以优化火力压制行为，代价是射击精度下降。</DMSAU_ArquebusierSuppresser.description>
+    <DMSAU_ClaymoreRoomba.label>自爆升级</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>自爆装置已安装并允许其随时触发。当单位被杀死时将自动触发。</DMSAU_ClaymoreRoomba.description>
     <!--<DMSAU_ShieldBooster.label>护盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>集成护盾核心提高了护盾能量上限。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

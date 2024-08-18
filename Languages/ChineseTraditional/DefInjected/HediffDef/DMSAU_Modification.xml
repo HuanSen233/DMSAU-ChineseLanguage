@@ -14,6 +14,8 @@
     <DMSAU_PowerDistribution.description>安裝了超導線纜和减震保險絲，加强EMP抗性並降低能耗係數。</DMSAU_PowerDistribution.description>
     <DMSAU_ArquebusierSuppresser.label>火力壓制陞級</DMSAU_ArquebusierSuppresser.label>
     <DMSAU_ArquebusierSuppresser.description>安裝了內部模塊以優化火力壓制行為，代價是射擊精度下降。</DMSAU_ArquebusierSuppresser.description>
+    <DMSAU_ClaymoreRoomba.label>自爆陞級</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>自爆裝置已安裝並允許其隨時觸發。 當單位被殺死時將自動觸發。</DMSAU_ClaymoreRoomba.description>
     <!--<DMSAU_ShieldBooster.label>護盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>集成護盾覈心提高了護盾能量上限。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

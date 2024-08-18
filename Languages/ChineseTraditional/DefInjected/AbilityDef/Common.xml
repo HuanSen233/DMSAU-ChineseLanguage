@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <DMSAU_ClaymoreRoomba.label>自爆</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>簡介還沒寫（原文TODO）</DMSAU_ClaymoreRoomba.description>
+    <DMSAU_ClaymoreRoomba.confirmationDialogText>觸發自爆將導致該單位發生一場爆炸並汽化它自己。 \n\n你確定要用？</DMSAU_ClaymoreRoomba.confirmationDialogText>
+    <DMSAU_ClaymoreRoomba.verbProperties.label>自爆</DMSAU_ClaymoreRoomba.verbProperties.label>
+</LanguageData>

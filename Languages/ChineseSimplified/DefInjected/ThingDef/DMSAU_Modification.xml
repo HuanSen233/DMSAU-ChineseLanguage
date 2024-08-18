@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <DMSAU_ModularStorage.label>模块化存储单元</DMSAU_ModularStorage.label>
-    <DMSAU_ModularStorage.description>简单的盒子、篮子和小袋子，很容易就能安装到各种机兵身上。轻巧而平稳的设计几乎不会影响到机兵的行动能力。</DMSAU_ModularStorage.description>
+    <DMSAU_ModularStorage.description>简单的盒子、篮子和小袋子，很容易就能安装到各种机兵身上。轻巧而平稳的设计几乎不会影响到单位的行动能力。</DMSAU_ModularStorage.description>
     <DMSAU_LightFrame.label>轻量化骨架</DMSAU_LightFrame.label>
-    <DMSAU_LightFrame.description>使用轻质玻璃钢来替换机兵的各个结构骨架，可以有效提高机兵的速度与灵活性。\n\n然而，这些轻量化骨架并不像原装骨架那样坚固或耐用，这意味着机兵在战斗中被击中将会遭受更多的损伤。\n\n与强化骨架互斥。</DMSAU_LightFrame.description>
+    <DMSAU_LightFrame.description>使用轻质玻璃钢来替换机兵的各个结构骨架，可以有效提高机兵的速度与灵活性。\n\n然而，这些轻量化骨架并不像原装骨架那样坚固或耐用，这意味着单位在战斗中被击中将会遭受更多的损伤。\n\n与强化骨架互斥。</DMSAU_LightFrame.description>
     <DMSAU_ArtifuscleArms.label>高频肌束</DMSAU_ArtifuscleArms.label>
     <DMSAU_ArtifuscleArms.description>一种安装在机体手臂上的超频人工生物合成肌肉束，这些经过超频的人工肌肉能使机兵更快地击打并携带更重的载荷。\n\n然而，对人工肌肉的超频最后会使其代谢出非常多的烈性化学物质，这些化学物质将在机兵充电时释放出来，从而产生了更多有毒垃圾。</DMSAU_ArtifuscleArms.description>
     <DMSAU_FireControlSystem.label>集成火控系统</DMSAU_FireControlSystem.label>
-    <DMSAU_FireControlSystem.description>集成火控系统能够快速计算射击预案，使机兵能更快、更精准地射击。其巨大的能量消耗不仅会使电池续航能力下降，还需要将机兵的部分分配给动力系统的能量重定向至集成火控系统，从而导致移动能力下降。更重的数据负载又迫使机械师分配更多的带宽给机兵。\n\n与高级协处理器互斥。</DMSAU_FireControlSystem.description>
+    <DMSAU_FireControlSystem.description>集成火控系统能够快速计算射击预案，使机兵能更快、更精准地射击。其巨大的能量消耗不仅会使电池续航能力下降，还需要将机兵的部分分配给动力系统的能量重定向至集成火控系统，从而导致移动能力下降。更重的数据负载又迫使机械师分配更多的带宽给单位。\n\n与高级协处理器互斥。</DMSAU_FireControlSystem.description>
     <DMSAU_AdvProcessor.label>高级协处理器</DMSAU_AdvProcessor.label>
-    <DMSAU_AdvProcessor.description>最先进的湿件协处理器安装套件。大幅增加机兵数据处理效率，但更重的数据负载将迫使机械师分配更多的带宽给机兵。\n\n与集成火控系统互斥。</DMSAU_AdvProcessor.description>
+    <DMSAU_AdvProcessor.description>最先进的湿件协处理器安装套件。大幅增加机兵数据处理效率，但更重的数据负载将迫使机械师分配更多的带宽给单位。\n\n与集成火控系统互斥。</DMSAU_AdvProcessor.description>
     <DMSAU_PowerDistribution.label>强化配电系统</DMSAU_PowerDistribution.label>
     <DMSAU_PowerDistribution.description>配置了超导线缆和减震保险丝的配电系统，可减少电磁脉冲对电子设备的影响并提高能量效率。</DMSAU_PowerDistribution.description>
-    <DMSAU_ArquebusierSuppresser.label>火枪手压制模块</DMSAU_ArquebusierSuppresser.label>
-    <DMSAU_ArquebusierSuppresser.description>一种用于调整火枪手行为模式的内部模块。它会忽略射击精度与稳定性从而快速计算出射击预案。这允许机兵在自身射程内倾泻更多弹药，使其成为理想的火力支援手。\n\n与集成火控系统和高级协处理器互斥。</DMSAU_ArquebusierSuppresser.description>
+    <DMSAU_ArquebusierSuppresser.label>火枪手压制升级</DMSAU_ArquebusierSuppresser.label>
+    <DMSAU_ArquebusierSuppresser.description>一种用于调整火枪手行为模式的升级模块。它会忽略射击精度与稳定性从而快速计算出射击预案。这允许机兵在自身射程内倾泻更多弹药，使其成为理想的火力支援手。\n\n与集成火控系统和高级协处理器互斥。</DMSAU_ArquebusierSuppresser.description>
+    <DMSAU_ClaymoreRoomba.label>垃圾桶自爆升级</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>使垃圾筒变成一颗移动炸弹，炸飞周围的人同时汽化它自己。该功能可以在任何时候触发，也会在单位被杀死时自动触发。该升级会使单位减速。</DMSAU_ClaymoreRoomba.description>
     <!--<DMSAU_ShieldBooster.label>机兵护盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>一个集成机械体护盾核心，极大的强化了机兵内置或机械师投射于机兵的能量护盾的运作效率。其需要消耗大量电力以防止核心烧毁。\n\n它本身不能产生护盾。</DMSAU_ShieldBooster.description>-->
 </LanguageData>
