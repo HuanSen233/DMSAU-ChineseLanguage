@@ -10,7 +10,7 @@
 		<li>
 			<packageId>WSP.deadmanswitch.upgrades</packageId>
 			<displayName>The Dead Man's Switch - Additional Upgrades</displayName>
-			<steamWorkshopUrl>-</steamWorkshopUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3311258450</steamWorkshopUrl>
 			<downloadUrl>https://github.com/HuanSen233/DMSAU-ChineseLanguage</downloadUrl>
 		</li>
 	</modDependencies>
@@ -19,5 +19,7 @@
 	</loadAfter>
 	<description>The Dead Man's Switch - Additional Upgrades 简繁汉化
 个人渣翻
-繁体机器</description>
+繁体机器
+https://github.com/HuanSen233/DMSAU-ChineseLanguage
+MIT License</description>
 </ModMetaData>
