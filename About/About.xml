@@ -11,7 +11,7 @@
 			<packageId>WSP.deadmanswitch.upgrades</packageId>
 			<displayName>The Dead Man's Switch - Additional Upgrades</displayName>
 			<steamWorkshopUrl>-</steamWorkshopUrl>
-			<downloadUrl>https://github.com/SonicTHI/SaveOurShip2ExpTest</downloadUrl>
+			<downloadUrl>https://github.com/HuanSen233/DMSAU-ChineseLanguage</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
