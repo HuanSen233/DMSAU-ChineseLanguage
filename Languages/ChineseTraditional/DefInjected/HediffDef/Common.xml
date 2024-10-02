@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <DMSAU_RepairMechanites_Active.label>主動維修機械</DMSAU_RepairMechanites_Active.label>
+    <DMSAU_RepairMechanites_Active.description>維修機械正在努力工作中。 \n\n每秒修復4.5點損傷。</DMSAU_RepairMechanites_Active.description>
+    <DMSAU_FortressAugment_Active.label>堡壘模式啟動</DMSAU_FortressAugment_Active.label>
+    <DMSAU_FortressAugment_Active.description>將動力系統的能量重定向至火控系統，進一步增強射擊效能。</DMSAU_FortressAugment_Active.description>
+    <DMSAU_FortressAugment_Deactive.label>堡壘模式關閉</DMSAU_FortressAugment_Deactive.label>
+    <DMSAU_FortressAugment_Deactive.description>恢復動力系統供電。</DMSAU_FortressAugment_Deactive.description>
+</LanguageData>

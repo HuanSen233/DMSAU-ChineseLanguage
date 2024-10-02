@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <DMSAU_ClaymoreRoomba.label>自爆</DMSAU_ClaymoreRoomba.label>
-    <DMSAU_ClaymoreRoomba.description>簡介還沒寫（原文TODO）</DMSAU_ClaymoreRoomba.description>
+    <DMSAU_ClaymoreRoomba.description>觸發自爆裝置</DMSAU_ClaymoreRoomba.description>
     <DMSAU_ClaymoreRoomba.confirmationDialogText>觸發自爆將導致該單位發生一場爆炸並汽化它自己。 \n\n你確定要用？</DMSAU_ClaymoreRoomba.confirmationDialogText>
     <DMSAU_ClaymoreRoomba.verbProperties.label>自爆</DMSAU_ClaymoreRoomba.verbProperties.label>
+    <DMSAU_RepairMechanites.label>啟動緊急維修</DMSAU_RepairMechanites.label>
+    <DMSAU_RepairMechanites.description>啟動休眠的維修機械。</DMSAU_RepairMechanites.description>
+    <DMSAU_RepairMechanites.confirmationDialogText>整個緊急維修過程將會消耗單位至少30%的能量，同樣也最好考慮一下其它因素。 \n\n你確定要用？</DMSAU_RepairMechanites.confirmationDialogText>
+    <DMSAU_FortressAugment.label>啟動堡壘模式</DMSAU_FortressAugment.label>
+    <DMSAU_FortressAugment.description>將動力系統的所有能量重定向至火控系統。</DMSAU_FortressAugment.description>
+    <DMSAU_FortressAugment_Deactive.label>關閉堡壘模式</DMSAU_FortressAugment_Deactive.label>
+    <DMSAU_FortressAugment_Deactive.description>將能量重定向回動力系統。</DMSAU_FortressAugment_Deactive.description>
 </LanguageData>

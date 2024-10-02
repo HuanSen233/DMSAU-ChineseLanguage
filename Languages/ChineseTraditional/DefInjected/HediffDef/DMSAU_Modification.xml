@@ -16,6 +16,12 @@
     <DMSAU_ArquebusierSuppresser.description>安裝了內部模塊以優化火力壓制行為，代價是射擊精度下降。</DMSAU_ArquebusierSuppresser.description>
     <DMSAU_ClaymoreRoomba.label>自爆陞級</DMSAU_ClaymoreRoomba.label>
     <DMSAU_ClaymoreRoomba.description>自爆裝置已安裝並允許其隨時觸發。 當單位被殺死時將自動觸發。</DMSAU_ClaymoreRoomba.description>
+    <DMSAU_Applique.label>複合裝甲</DMSAU_Applique.label>
+    <DMSAU_Applique.description>安裝在機兵上的複合裝甲。</DMSAU_Applique.description>
+    <DMSAU_RepairMechanites.label>緊急維修單元</DMSAU_RepairMechanites.label>
+    <DMSAU_RepairMechanites.description>一個存儲著休眠狀態的維修機械的單元，時刻準備啟動。</DMSAU_RepairMechanites.description>
+    <DMSAU_FortressAugment.label>堡壘陞級</DMSAU_FortressAugment.label>
+    <DMSAU_FortressAugment.description>一套包含堡壘陞級模塊與一個火控系統的模塊包已安裝。</DMSAU_FortressAugment.description>
     <!--<DMSAU_ShieldBooster.label>護盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>集成護盾覈心提高了護盾能量上限。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

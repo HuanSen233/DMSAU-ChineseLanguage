@@ -16,6 +16,12 @@
     <DMSAU_ArquebusierSuppresser.description>一種用於調整火槍手行為模式的陞級模塊。 它會忽略射擊精度與穩定性從而快速計算出射擊預案。 這允許機兵在自身射程內傾瀉更多彈藥，使其成為理想的火力支援手。\n\n與集成火控系統和高級輔助處理器互斥。</DMSAU_ArquebusierSuppresser.description>
     <DMSAU_ClaymoreRoomba.label>垃圾桶自爆陞級</DMSAU_ClaymoreRoomba.label>
     <DMSAU_ClaymoreRoomba.description>使垃圾筒變成一顆移動炸彈，炸飛周圍的人同時汽化它自己。 該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。 該陞級會使單位减速。</DMSAU_ClaymoreRoomba.description>
+    <DMSAU_Applique.label>複合裝甲板</DMSAU_Applique.label>
+    <DMSAU_Applique.description>一套易於安裝在各種機兵上的複合裝甲板。 提高了防護能力，但重量較重。 \n\n與戰鬥夥伴的附加裝甲互斥。</DMSAU_Applique.description>
+    <DMSAU_RepairMechanites.label>緊急維修單元</DMSAU_RepairMechanites.label>
+    <DMSAU_RepairMechanites.description>一種一次性、處於休眠狀態的維修機械，由次生覈心控制，可根據需要隨時啟動。 它能在一小時內修好無論受損程度嚴重與否的絕大多數的機兵。 \n\n與部分機兵所內寘的修復協定相比，這種維修裝置非常耗電，但修復速度會快得多，且不會使單位徹底失去作戰能力。</DMSAU_RepairMechanites.description>
+    <DMSAU_FortressAugment.label>突擊龜堡壘陞級</DMSAU_FortressAugment.label>
+    <DMSAU_FortressAugment.description>一種允許突擊龜啟動“堡壘模式”的陞級模塊包。 該模式會使分配給動力系統的能量重定向至陞級模塊包內新的火控系統，這將大幅提升射擊效能，但會嚴重影響單位的移動能力。 新的火控系統在啟動“要塞模式”之前不會以全功率運行，囙此被動效果比集成火控系統要小。 \n\n與集成火控系統和高級輔助處理器互斥。</DMSAU_FortressAugment.description>
     <!--<DMSAU_ShieldBooster.label>機兵護盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>一個集成機械體護盾覈心，極大的强化了機兵內寘或機械師投射於機兵的能量護盾的運作效率。 其需要消耗大量電力以防止覈心燒毀。 \n\n它本身不能產生護盾。</DMSAU_ShieldBooster.description>-->
 </LanguageData>
