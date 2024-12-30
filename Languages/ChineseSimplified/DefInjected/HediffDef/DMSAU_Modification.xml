@@ -22,6 +22,8 @@
     <DMSAU_RepairMechanites.description>一个存储着休眠状态的维修机械的单元，时刻准备激活。</DMSAU_RepairMechanites.description>
     <DMSAU_FortressAugment.label>堡垒升级</DMSAU_FortressAugment.label>
     <DMSAU_FortressAugment.description>一套包含堡垒升级模块与一个火控系统的模块包已安装。</DMSAU_FortressAugment.description>
+    <DMSAU_KamikazeDrone.label>神风升级</DMSAU_KamikazeDrone.label>
+    <DMSAU_KamikazeDrone.description>自爆用炸弹已安装进该单位并允许其随时触发。当单位被杀死时将自动触发。</DMSAU_KamikazeDrone.description>
     <!--<DMSAU_ShieldBooster.label>护盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>集成护盾核心提高了护盾能量上限。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

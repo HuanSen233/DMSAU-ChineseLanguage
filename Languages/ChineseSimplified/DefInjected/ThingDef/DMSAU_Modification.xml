@@ -22,6 +22,8 @@
     <DMSAU_RepairMechanites.description>一种一次性、处于休眠状态的维修机械，由次生核心控制，可根据需要随时激活。它能在一小时内修好无论受损程度严重与否的绝大多数的机兵。\n\n与部分机兵所内置的修复协议相比，这种维修装置非常耗电，但修复速度会快得多，且不会使单位彻底失去作战能力。</DMSAU_RepairMechanites.description>
     <DMSAU_FortressAugment.label>突击龟堡垒升级</DMSAU_FortressAugment.label>
     <DMSAU_FortressAugment.description>一种允许突击龟激活“堡垒模式”的升级模块包。该模式会使分配给动力系统的能量重定向至升级模块包内新的火控系统，这将大幅提升射击性能，但会严重影响单位的移动能力。新的火控系统在激活“要塞模式”之前不会以全功率运行，因此被动效果比集成火控系统要小。\n\n与集成火控系统和高级协处理器互斥。</DMSAU_FortressAugment.description>
+    <DMSAU_KamikazeDrone.label>无人机神风升级</DMSAU_KamikazeDrone.label>
+    <DMSAU_KamikazeDrone.description>一种自杀式升级模块，能把任意一架百灵鸟或游隼变成一颗可以自己跑的炸弹，蒸发以自身为中心非常小的半径内的单位同时汽化它自己。该功能可以在任何时候触发，也会在单位被杀死时自动触发。\n\n但由于它使用的是聚能装药，在单位死亡时自动触发造成的爆炸无法穿透目标的护甲（仅Combat Extended）。</DMSAU_KamikazeDrone.description>
     <!--<DMSAU_ShieldBooster.label>机兵护盾增幅器</DMSAU_ShieldBooster.label>
     <DMSAU_ShieldBooster.description>一个集成机械体护盾核心，极大的强化了机兵内置或机械师投射于机兵的能量护盾的运作效率。其需要消耗大量电力以防止核心烧毁。\n\n它本身不能产生护盾。</DMSAU_ShieldBooster.description>-->
 </LanguageData>
