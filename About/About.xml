@@ -5,21 +5,24 @@
 	<author>HuanSen233</author>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies>
 		<li>
-			<packageId>WSP.deadmanswitch.upgrades</packageId>
-			<displayName>The Dead Man's Switch - Additional Upgrades</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/3310569544</steamWorkshopUrl>
-			<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3310569544</downloadUrl>
+			<packageId>PB.deadmanswitch.upgrades</packageId>
+			<displayName>The Dead Man's Switch - Additional Upgrades(continued)</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3531870078</steamWorkshopUrl>
+			<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3531870078</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>WSP.deadmanswitch.upgrades</li>
+		<li>PB.deadmanswitch.upgrades</li>
 	</loadAfter>
 
-    <modVersion>24/12/26-R1</modVersion>
+    <modVersion>25/07/23-R1</modVersion>
 	<description>The Dead Man's Switch - Additional Upgrades 简繁汉化
+对于1.6：需要使用 The Dead Man's Switch - Additional Upgrades(continued)
 个人渣翻
 繁体机器
 https://github.com/HuanSen233/DMSAU-ChineseLanguage
