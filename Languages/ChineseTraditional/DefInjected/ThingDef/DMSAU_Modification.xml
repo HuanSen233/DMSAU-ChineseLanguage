@@ -1,29 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <DMSAU_ModularStorage.label>模組化存儲單元</DMSAU_ModularStorage.label>
-    <DMSAU_ModularStorage.description>簡單的盒子、籃子和小袋子，很容易就能安裝到各種機兵身上。 輕巧而平穩的設計幾乎不會影響到單位的行動能力。</DMSAU_ModularStorage.description>
+    <DMSAU_ModularStorage.label>模組化儲存單元</DMSAU_ModularStorage.label>
+    <DMSAU_ModularStorage.description>簡單的盒子、籃子和小袋子，很容易就能安裝到各種機兵身上。輕巧而平穩的設計幾乎不會影響到單位的行動能力。</DMSAU_ModularStorage.description>
+
     <DMSAU_LightFrame.label>輕量化骨架</DMSAU_LightFrame.label>
-    <DMSAU_LightFrame.description>使用輕質玻璃鋼來替換機兵的各個結構骨架，可以有效提高機兵的速度與靈活性。 \n\n然而，這些輕量化骨架並不像原裝骨架那樣堅固或耐用，這意味著單位在戰鬥中被擊中將會遭受更多的損傷。 \n\n與强化骨架互斥。</DMSAU_LightFrame.description>
+    <DMSAU_LightFrame.description>使用輕質玻璃鋼來替換機兵的各個結構骨架，可以有效提高機兵的速度與靈活性。\n\n然而，這些輕量化骨架並不像原裝骨架那樣堅固或耐用，這意味著單位在戰鬥中被擊中將會遭受更多的損傷。\n\n與強化骨架互斥。</DMSAU_LightFrame.description>
+
     <DMSAU_ArtifuscleArms.label>高頻肌束</DMSAU_ArtifuscleArms.label>
-    <DMSAU_ArtifuscleArms.description>一種安裝在機體手臂上的超頻人工生物合成肌肉束，這些經過超頻的人工肌肉能使機兵更快地擊打並攜帶更重的載荷。 \n\n然而，對人工肌肉的超頻最後會使其代謝出非常多的烈性化學物質，這些化學物質將在機兵充電時釋放出來，從而產生了更多有毒垃圾。</DMSAU_ArtifuscleArms.description>
-    <DMSAU_FireControlSystem.label>集成火控系統</DMSAU_FireControlSystem.label>
-    <DMSAU_FireControlSystem.description>集成火控系統能够快速計算射擊預案，使機兵能更快、更精准地射擊。 其巨大的能量消耗不僅會使電池續航能力下降，還需要將機兵的部分分配給動力系統的能量重定向至集成火控系統，從而導致移動能力下降。 更重的數據負載又迫使機械師分配更多的頻寬給單位。 \n\n與高級輔助處理器互斥。</DMSAU_FireControlSystem.description>
-    <DMSAU_AdvProcessor.label>高級輔助處理器</DMSAU_AdvProcessor.label>
-    <DMSAU_AdvProcessor.description>最先進的濕件輔助處理器安裝套件。 大幅增加機兵資料處理效率，但更重的數據負載將迫使機械師分配更多的頻寬給單位。 \n\n與集成火控系統互斥。</DMSAU_AdvProcessor.description>
-    <DMSAU_PowerDistribution.label>强化配電系統</DMSAU_PowerDistribution.label>
-    <DMSAU_PowerDistribution.description>配寘了超導線纜和减震保險絲的配電系統，可减少電磁脈衝對電子設備的影響並提高能量效率。</DMSAU_PowerDistribution.description>
-    <DMSAU_ArquebusierSuppresser.label>火槍手壓制模組</DMSAU_ArquebusierSuppresser.label>
-    <DMSAU_ArquebusierSuppresser.description>一種用於調整火槍手行為模式的陞級模組。 它會忽略射擊精度與穩定性從而快速計算出射擊預案。 這允許機兵在自身射程內傾瀉更多彈藥，使其成為理想的火力支援手。\n\n與集成火控系統和高級輔助處理器互斥。</DMSAU_ArquebusierSuppresser.description>
-    <DMSAU_ClaymoreRoomba.label>垃圾桶自爆陞級</DMSAU_ClaymoreRoomba.label>
-    <DMSAU_ClaymoreRoomba.description>使垃圾筒變成一顆移動炸彈，炸飛周圍的人同時汽化它自己。 該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。 該陞級會使單位减速。</DMSAU_ClaymoreRoomba.description>
+    <DMSAU_ArtifuscleArms.description>一種安裝在機體手臂上的超頻人工生物合成肌肉束，這些經過超頻的人工肌肉能使機兵更快地擊打並攜帶更重的載荷。\n\n然而，對人工肌肉的超頻最後會使其代謝出非常多的烈性化學物質，這些化學物質將在機兵充電時釋放出來，從而產生了更多有毒垃圾。</DMSAU_ArtifuscleArms.description>
+
+    <DMSAU_FireControlSystem.label>整合火控系統</DMSAU_FireControlSystem.label>
+    <DMSAU_FireControlSystem.description>整合火控系統能夠快速計算射擊預案，使機兵能更快、更精準地射擊。其巨大的能量消耗不僅會使電池續航能力下降，還需要將機兵的部分分配給動力系統的能量重新導向至整合火控系統，從而導致移動能力下降。更重的資料負載又迫使機械師分配更多的頻寬給單位。\n\n與高階協同處理器互斥。</DMSAU_FireControlSystem.description>
+    
+    <DMSAU_AdvProcessor.label>高階協同處理器</DMSAU_AdvProcessor.label>
+    <DMSAU_AdvProcessor.description>最先進的濕件協同處理器安裝套件。大幅增加機兵資料處理效率，但更重的資料負載將迫使機械師分配更多的頻寬給單位。\n\n與整合火控系統互斥。</DMSAU_AdvProcessor.description>
+    
+    <DMSAU_PowerDistribution.label>強化配電系統</DMSAU_PowerDistribution.label>
+    <DMSAU_PowerDistribution.description>配置了超導線纜和減震保險絲的配電系統，可減少電磁脈衝對電子設備的影響並提高能量效率。</DMSAU_PowerDistribution.description>
+    
+    <DMSAU_ArquebusierSuppresser.label>火槍手壓制升級</DMSAU_ArquebusierSuppresser.label>
+    <DMSAU_ArquebusierSuppresser.description>一種用於調整火槍手行為模式的升級模組。它會忽略射擊精度與穩定性從而快速計算出射擊預案。這允許機兵在自身射程內傾瀉更多彈藥，使其成為理想的火力支援手。\n\n與整合火控系統和高階協同處理器互斥。</DMSAU_ArquebusierSuppresser.description>
+    
+    <DMSAU_ClaymoreRoomba.label>垃圾盤自爆升級</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>使垃圾盤變成一顆移動炸彈，炸飛周圍的人同時蒸發它自己。該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。該升級會使單位減速。</DMSAU_ClaymoreRoomba.description>
+    
     <DMSAU_Applique.label>複合裝甲板</DMSAU_Applique.label>
-    <DMSAU_Applique.description>一套易於安裝在各種機兵上的複合裝甲板。 提高了防護能力，但重量較重。 \n\n與戰鬥夥伴的附加裝甲互斥。</DMSAU_Applique.description>
+    <DMSAU_Applique.description>一套易於安裝在各種機兵上的複合裝甲板。提高了防護能力，但重量較重。\n\n與戰鬥夥伴的附加裝甲互斥。</DMSAU_Applique.description>
+    
     <DMSAU_RepairMechanites.label>緊急維修單元</DMSAU_RepairMechanites.label>
-    <DMSAU_RepairMechanites.description>一種一次性、處於休眠狀態的維修機械，由次生覈心控制，可根據需要隨時啟動。 它能在一小時內修好無論受損程度嚴重與否的絕大多數的機兵。 \n\n與部分機兵所內寘的修復協定相比，這種維修裝置非常耗電，但修復速度會快得多，且不會使單位徹底失去作戰能力。</DMSAU_RepairMechanites.description>
-    <DMSAU_FortressAugment.label>突擊龜堡壘陞級</DMSAU_FortressAugment.label>
-    <DMSAU_FortressAugment.description>一種允許突擊龜啟動“堡壘模式”的陞級模組包。 該模式會使分配給動力系統的能量重定向至陞級模組包內新的火控系統，這將大幅提升射擊效能，但會嚴重影響單位的移動能力。 新的火控系統在啟動“要塞模式”之前不會以全功率運行，囙此被動效果比集成火控系統要小。 \n\n與集成火控系統和高級輔助處理器互斥。</DMSAU_FortressAugment.description>
-    <DMSAU_KamikazeDrone.label>無人機神風陞級</DMSAU_KamikazeDrone.label>
-    <DMSAU_KamikazeDrone.description>一種自殺式陞級模組，能把任意一架百靈鳥或遊隼變成一顆可以自己跑的炸彈，蒸發以自身為中心非常小的半徑內的單位同時汽化它自己。 該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。\n\n但由於它使用的是聚能裝藥，在單位死亡時自動觸發造成的爆炸無法穿透目標的護甲（僅Combat Extended）。</DMSAU_KamikazeDrone.description>
+    <DMSAU_RepairMechanites.description>一種一次性、處於休眠狀態的維修機械，由次生核心控制，可根據需要隨時啟動。它能在一小時內修好無論受損程度嚴重與否的絕大多數的機兵。\n\n與部分機兵所內建的修復協議相比，這種維修裝置非常耗電，但修復速度會快得多，且不會使單位徹底失去作戰能力。</DMSAU_RepairMechanites.description>
+    
+    <DMSAU_FortressAugment.label>突擊龜堡壘升級</DMSAU_FortressAugment.label>
+    <DMSAU_FortressAugment.description>一種允許突擊龜啟動「堡壘模式」的升級模組包。該模式會使分配給動力系統的能量重新導向至升級模組包內新的火控系統，這將大幅提升射擊性能，但會嚴重影響單位的移動能力。新的火控系統在啟動「要塞模式」之前不會以全功率運行，因此被動效果比整合火控系統要小。\n\n與整合火控系統和高階協同處理器互斥。</DMSAU_FortressAugment.description>
+    
+    <DMSAU_KamikazeDrone.label>無人機神風升級</DMSAU_KamikazeDrone.label>
+    <DMSAU_KamikazeDrone.description>一種自殺式升級模組，能把任意一架百靈鳥或游隼變成一顆可以自己跑的炸彈，蒸發以自身為中心非常小的半徑內的單位同時蒸發它自己。該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。\n\n但由於它使用的是聚能裝藥，在單位死亡時自動觸發造成的爆炸無法穿透目標的裝甲（僅Combat Extended）。</DMSAU_KamikazeDrone.description>
+    
+    <DMSAU_AntigrainRoomba.label>簡易反粒子彈頭升級</DMSAU_AntigrainRoomba.label>
+    <DMSAU_AntigrainRoomba.description>使垃圾盤變成一顆移動反粒子炸彈，讓自己連帶周圍的傢伙全都瞬間蒸發。該功能可以在任何時候觸發，也會在單位被殺死時自動觸發。該升級會使單位減速。</DMSAU_AntigrainRoomba.description>
+    
+    <DMSAU_CompMicroFab.label>模組化微型製造機</DMSAU_CompMicroFab.label>
+    <DMSAU_CompMicroFab.description>一組升級套件，包含一組能安裝在任何機兵上的模組化微型製造機。這些設備能不間斷的生產各類常見的維修用替換組件，產出的組件會儲存在機兵內部以方便取用。\n\n這些設備由一個獨立的小反應爐供能，但無論發電還是製造組件，其所涉及的劇烈化學過程都會產生大量廢料。</DMSAU_CompMicroFab.description>
+    
     <!--<DMSAU_ShieldBooster.label>機兵護盾增幅器</DMSAU_ShieldBooster.label>
-    <DMSAU_ShieldBooster.description>一個集成機械體護盾覈心，極大的强化了機兵內寘或機械師投射於機兵的能量護盾的運作效率。 其需要消耗大量電力以防止覈心燒毀。 \n\n它本身不能產生護盾。</DMSAU_ShieldBooster.description>-->
+    <DMSAU_ShieldBooster.description>一個整合機械體護盾核心，極大的強化了機兵內建或機械師投射於機兵的能量護盾的運作效率。其需要消耗大量電力以防止核心燒毀。\n\n它本身不能產生護盾。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

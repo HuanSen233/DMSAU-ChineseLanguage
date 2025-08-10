@@ -1,29 +1,46 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <DMSAU_ModularStorage.label>模組化存儲單元</DMSAU_ModularStorage.label>
-    <DMSAU_ModularStorage.description>額外的存儲單元已安裝在機兵的外部結構。</DMSAU_ModularStorage.description>
+    <DMSAU_ModularStorage.label>模組化儲存單元</DMSAU_ModularStorage.label>
+    <DMSAU_ModularStorage.description>額外的儲存單元已安裝在單位的外部結構。</DMSAU_ModularStorage.description>
+
     <DMSAU_LightFrame.label>輕量化骨架</DMSAU_LightFrame.label>
-    <DMSAU_LightFrame.description>使用輕質資料的結構骨架取代了原裝骨架。 機兵速度更快但承傷能力减弱。</DMSAU_LightFrame.description>
+    <DMSAU_LightFrame.description>使用輕質材料的結構骨架取代了原裝骨架。單位的速度更快但承受傷害能力減弱。</DMSAU_LightFrame.description>
+
     <DMSAU_ArtifuscleArms.label>高頻肌束</DMSAU_ArtifuscleArms.label>
-    <DMSAU_ArtifuscleArms.description>高頻肌束已安裝，减少近戰冷卻時間並加强攜帶能力。</DMSAU_ArtifuscleArms.description>
-    <DMSAU_FireControlSystem.label>集成火控系統</DMSAU_FireControlSystem.label>
-    <DMSAU_FireControlSystem.description>集成火控系統已安裝，提升射擊效能但移動能力减弱。</DMSAU_FireControlSystem.description>
-    <DMSAU_AdvProcessor.label>高級輔助處理器</DMSAU_AdvProcessor.label>
-    <DMSAU_AdvProcessor.description>額外的濕件輔助處理器加强了資料處理效率，但也給機械師帶來了負擔。</DMSAU_AdvProcessor.description>
-    <DMSAU_PowerDistribution.label>强化配電系統</DMSAU_PowerDistribution.label>
-    <DMSAU_PowerDistribution.description>安裝了超導線纜和减震保險絲，加强EMP抗性並降低能耗係數。</DMSAU_PowerDistribution.description>
-    <DMSAU_ArquebusierSuppresser.label>火力壓制陞級</DMSAU_ArquebusierSuppresser.label>
+    <DMSAU_ArtifuscleArms.description>高頻肌束已安裝，減少近戰冷卻時間並加強攜帶能力。</DMSAU_ArtifuscleArms.description>
+
+    <DMSAU_FireControlSystem.label>整合火控系統</DMSAU_FireControlSystem.label>
+    <DMSAU_FireControlSystem.description>整合火控系統已安裝，提升射擊性能但移動能力減弱。</DMSAU_FireControlSystem.description>
+
+    <DMSAU_AdvProcessor.label>高階協同處理器</DMSAU_AdvProcessor.label>
+    <DMSAU_AdvProcessor.description>額外的濕件協同處理器加強了資料處理效率，但也給機械師帶來了負擔。</DMSAU_AdvProcessor.description>
+
+    <DMSAU_PowerDistribution.label>強化配電系統</DMSAU_PowerDistribution.label>
+    <DMSAU_PowerDistribution.description>安裝了超導線纜和減震保險絲，加強EMP抗性並降低能耗係數。</DMSAU_PowerDistribution.description>
+
+    <DMSAU_ArquebusierSuppresser.label>火力壓制升級</DMSAU_ArquebusierSuppresser.label>
     <DMSAU_ArquebusierSuppresser.description>安裝了內部模組以優化火力壓制行為，代價是射擊精度下降。</DMSAU_ArquebusierSuppresser.description>
-    <DMSAU_ClaymoreRoomba.label>自爆陞級</DMSAU_ClaymoreRoomba.label>
-    <DMSAU_ClaymoreRoomba.description>自爆裝置已安裝並允許其隨時觸發。 當單位被殺死時將自動觸發。</DMSAU_ClaymoreRoomba.description>
+
+    <DMSAU_ClaymoreRoomba.label>自爆升級</DMSAU_ClaymoreRoomba.label>
+    <DMSAU_ClaymoreRoomba.description>自爆裝置已安裝並允許其隨時觸發。當單位被殺死時將自動觸發。</DMSAU_ClaymoreRoomba.description>
+
     <DMSAU_Applique.label>複合裝甲</DMSAU_Applique.label>
     <DMSAU_Applique.description>安裝在機兵上的複合裝甲。</DMSAU_Applique.description>
+
     <DMSAU_RepairMechanites.label>緊急維修單元</DMSAU_RepairMechanites.label>
-    <DMSAU_RepairMechanites.description>一個存儲著休眠狀態的維修機械的單元，時刻準備啟動。</DMSAU_RepairMechanites.description>
-    <DMSAU_FortressAugment.label>堡壘陞級</DMSAU_FortressAugment.label>
-    <DMSAU_FortressAugment.description>一套包含堡壘陞級模組與一個火控系統的模組包已安裝。</DMSAU_FortressAugment.description>
-    <DMSAU_KamikazeDrone.label>神風陞級</DMSAU_KamikazeDrone.label>
-    <DMSAU_KamikazeDrone.description>自爆用炸彈已安裝進該單位織並允許其隨時觸發。 當組織被殺死時將自動觸發。</DMSAU_KamikazeDrone.description>
+    <DMSAU_RepairMechanites.description>一個儲存著休眠狀態的維修機械的單元，時刻準備啟動。</DMSAU_RepairMechanites.description>
+
+    <DMSAU_FortressAugment.label>堡壘升級</DMSAU_FortressAugment.label>
+    <DMSAU_FortressAugment.description>一套包含堡壘升級模組與一個火控系統的模組包已安裝。</DMSAU_FortressAugment.description>
+
+    <DMSAU_KamikazeDrone.label>神風升級</DMSAU_KamikazeDrone.label>
+    <DMSAU_KamikazeDrone.description>自爆用炸彈已安裝進該單位並允許其隨時觸發。當單位被殺死時將自動觸發。</DMSAU_KamikazeDrone.description>
+
+    <DMSAU_AntigrainRoomba.label>簡易反粒子彈頭升級</DMSAU_AntigrainRoomba.label>
+    <DMSAU_AntigrainRoomba.description>自爆用反粒子彈頭已安裝進該單位並允許其隨時觸發。當單位被殺死時將自動觸發。</DMSAU_AntigrainRoomba.description>
+    
+    <DMSAU_CompMicroFab.label>模組化微型製造機</DMSAU_CompMicroFab.label>
+    <DMSAU_CompMicroFab.description>模組化微型製造機正在努力生產備用替換組件。\n\n請注意，顯示的維修成本x66是某種統計算法上的錯誤，事實上的效果是初始值x0.66。\n\n&lt;color=#8CFFF1&gt;每小時修復1點損傷。&lt;/color&gt;</DMSAU_CompMicroFab.description>
     <!--<DMSAU_ShieldBooster.label>護盾增幅器</DMSAU_ShieldBooster.label>
-    <DMSAU_ShieldBooster.description>集成護盾覈心提高了護盾能量上限。</DMSAU_ShieldBooster.description>-->
+    <DMSAU_ShieldBooster.description>整合護盾核心提高了護盾能量上限。</DMSAU_ShieldBooster.description>-->
 </LanguageData>

@@ -4,13 +4,21 @@
     <DMSAU_ClaymoreRoomba.description>触发自爆装置</DMSAU_ClaymoreRoomba.description>
     <DMSAU_ClaymoreRoomba.confirmationDialogText>触发自爆将导致该单位发生一场爆炸并汽化它自己。\n\n你确定要用？</DMSAU_ClaymoreRoomba.confirmationDialogText>
     <DMSAU_ClaymoreRoomba.verbProperties.label>自爆</DMSAU_ClaymoreRoomba.verbProperties.label>
+
+    <DMSAU_AntigrainRoomba.label>自爆</DMSAU_AntigrainRoomba.label>
+    <DMSAU_AntigrainRoomba.description>触发已安装的炸弹</DMSAU_AntigrainRoomba.description>
+    <DMSAU_AntigrainRoomba.confirmationDialogText>触发已安装的炸弹将导致该单位发生一场爆炸，让它自己和周围所有人瞬间蒸发的那种。\n\n你确定要用？</DMSAU_AntigrainRoomba.confirmationDialogText>
+    <DMSAU_AntigrainRoomba.verbProperties.label>自爆</DMSAU_AntigrainRoomba.verbProperties.label>
+
     <DMSAU_RepairMechanites.label>启动紧急维修</DMSAU_RepairMechanites.label>
     <DMSAU_RepairMechanites.description>激活休眠的维修机械。</DMSAU_RepairMechanites.description>
     <DMSAU_RepairMechanites.confirmationDialogText>整个紧急维修过程将会消耗单位至少30%的能量，同样也最好考虑一下其它因素。\n\n你确定要用？</DMSAU_RepairMechanites.confirmationDialogText>
-    <DMSAU_FortressAugment.label>激活堡垒模式</DMSAU_FortressAugment.label>
+
+    <DMSAU_FortressAugment.label>启动堡垒模式</DMSAU_FortressAugment.label>
     <DMSAU_FortressAugment.description>把动力系统的所有能量重定向至火控系统。</DMSAU_FortressAugment.description>
     <DMSAU_FortressAugment_Deactive.label>关闭堡垒模式</DMSAU_FortressAugment_Deactive.label>
     <DMSAU_FortressAugment_Deactive.description>将能量重定向回动力系统。</DMSAU_FortressAugment_Deactive.description>
+
     <DMSAU_KamikazeDrone.label>自爆</DMSAU_KamikazeDrone.label>
     <DMSAU_KamikazeDrone.description>触发已安装的炸弹</DMSAU_KamikazeDrone.description>
     <DMSAU_KamikazeDrone.confirmationDialogText>触发已安装的炸弹将导致该单位发生一场爆炸并汽化它自己。\n\n你确定要用？</DMSAU_KamikazeDrone.confirmationDialogText>
